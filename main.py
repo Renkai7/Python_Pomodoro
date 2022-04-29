@@ -40,5 +40,4 @@ check_marks = Label(text="✔", fg=GREEN, bg=YELLOW)
 check_marks.grid(column=1, row=3)
 
 
-
 window.mainloop()
